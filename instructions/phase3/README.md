@@ -1,0 +1,15 @@
+Build a Babel Fish with Machine Learning Language Services
+=========================================
+
+This repository contains necessary resources for AWS re:Invent 2018 workshop AIM313. In this readme you will find detailed instructions for Phase 3.
+
+<img src="../../img/flow3.png" />
+
+
+Phase 3: Convert text to audio
+-----
+
+To build your own Babel Fish you will need to accomplish four phases. Each of them will add new functionality to your Babel Fish and will use different AI service from AWS portfolio.
+
+<a href="../phase2/README.md"><img src="../../img/button2.png" width="200"></a>
+<a href="../cleaning/README.md"><img src="../../img/button3.png" width="200"></a>
