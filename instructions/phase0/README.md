@@ -32,9 +32,6 @@ Phase 0: Environment setup
 
 Please note that created Lambda functions use `Python 3.6` by default and while it's absolutely not a problem to use other programming languages to develop this solution only `Python` is actively supported during this workshop.
 
-## Testing
-TODO
-
 It's time to let your Babel-fish out :)
 
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**

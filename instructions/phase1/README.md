@@ -30,6 +30,9 @@ Implement the function to use audio file link and transcribe it with Amazon Tran
 
 To test this part of implementation, open `babel-fish.html` web app, record yourself or upload audio file and verify in the S3 bucket if an audio file is put into `input` folder and a `json` file with transcription result is created.
 
+## Testing
+TODO
+
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**
 
 
