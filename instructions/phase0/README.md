@@ -21,15 +21,21 @@ Phase 0: Environment setup
 * `DataBucket` - `Physical ID` is the created S3 bucket name.
 * `BabelFishLink` - `BabelFishLink` is a link to your Babel Fish application.
 
-4. Download `babel-fish.js` and `babel-fish.html` files.
+4. Download `babel-fish.js` and `babel-fish.html` files (they are provided in this repository)
 5. Update your local JavaScript app `babel-fish.js` and replace placeholders with correct configuration data:
 
     1. Provide your S3 bucket name in line 3.
     1. Provide your Identity Pool ID in line 4.
 
 7. Upload both of the files (`babel-fish.js` and `babel-fish.html`) to S3 bucket which was created in previous steps.
+8. Verify that the Babel Fish website is working. To do this, open the link, which you have copied in step number 3 (`BabelFishLink`).
 
 Please note that created Lambda functions use `Python 3.6` by default and while it's absolutely not a problem to use other programming languages to develop this solution only `Python` is actively supported during this workshop.
+
+## Testing
+TODO
+
+It's time to let your Babel-fish out :)
 
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**
 
