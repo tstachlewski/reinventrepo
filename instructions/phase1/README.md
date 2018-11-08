@@ -31,7 +31,7 @@ Implement the function to use audio file link and transcribe it with Amazon Tran
 
 
 ## Testing
-To test this part of implementation, open web app, record yourself or upload audio file and verify in the S3 bucket if an audio file is put into `input` folder and a `json` file with transcription result is created.
+To test this part of implementation, open web app, record yourself or upload audio file (you will find two files in this repository: `my-car.mp3` and `mi-coche.mp3`) and verify in the S3 bucket if an audio file is put into `input` folder and a `json` file with transcription result is created.
 
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**
 
