@@ -28,9 +28,12 @@ Phase 0: Environment setup
     1. Provide your Identity Pool ID in line 4.
 
 7. Upload both of the files (`babel-fish.js` and `babel-fish.html`) to S3 bucket which was created in previous steps.
-8. Verify that the Babel Fish website is working. To do this, open the link, which you have copied in step number 3 (`BabelFishLink`).
+
 
 Please note that created Lambda functions use `Python 3.6` by default and while it's absolutely not a problem to use other programming languages to develop this solution only `Python` is actively supported during this workshop.
+
+## Testing
+Verify that the Babel Fish website is working. To do this, open the link, which you have copied in step number 3 (`BabelFishLink`).
 
 It's time to let your Babel-fish out :)
 

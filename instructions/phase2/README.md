@@ -26,7 +26,8 @@ Implement the function to use transcription result and translate it with Amazon 
 
 > Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `translate_lambda_function.zip` file with a ready solution and will show how to apply it to unblock next steps.
 
-To test this part of implementation, open `babel-fish.html` web app, record yourself or upload audio file and verify in the S3 bucket if a `txt` file with translation result is created.
+## Testing
+To test this part of implementation, open web app, record yourself or upload audio file and verify in the S3 bucket if a `txt` file with translation result is created.
 
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**
 
