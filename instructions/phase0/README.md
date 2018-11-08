@@ -13,7 +13,7 @@ Clone this repository to your local machine or download `zip` file with its cont
 
 Sign into the AWS Console and choose `eu-west-1` (Irleand) region. Click the link below to launch CloudFormation stack in your AWS account. It will configure your environment with resources necessary to run this workshop.
 
-<a target="_blank" href="https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=babel-fish-app&templateURL=https://s3-eu-west-1.amazonaws.com/babel-fish-reinvent/cfn-babel-fish.yaml" ><img src="../../img/button-launch-stack.png" width="140"></a>
+<a href="https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=babel-fish-app&templateURL=https://s3-eu-west-1.amazonaws.com/babel-fish-reinvent/cfn-babel-fish.yaml"   target="_blank" rel="noopener noreferrer"  ><img src="../../img/button-launch-stack.png" width="140"></a>
 
 Move through the wizard (`Next`, `Next`, `Next`), on `Review` page acknowledge that CloudFormation might create IAM resources and click `Create`. Wait a few moments until status changes from `CREATE_IN_PROGRESS` to `CREATE_COMPLETE`.
 
