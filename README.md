@@ -11,19 +11,8 @@ Setup
 
 To build your own Babel Fish you will need to accomplish four phases. Each of them will add new functionality to your Babel Fish and will use different AI service from AWS portfolio.
 
-<a href="https://www.onet.com"><img src="/img/button1.png" width="200"></a>
-[![Get Started](img/button1.png&s=200)](./instructions/1-voice-user-interface.md)
+<a href="./instructions/phase1/README.md"><img src="/img/button1.png" width="200"></a>
 
-Skills can be built either by implementing ``AbstractRequestHandler`` classes
-or by using skill builder's ``request_handler`` decorator. More information
-on this can be checked in the [documentation](https://alexa-skills-kit-python-sdk.readthedocs.io/en/latest/REQUEST_PROCESSING.html#request-handlers).
-
-This sample skill shows how to implement ``AbstractRequestHandler`` class
-and register the handler classes explicitly in the skill builder object.
-The code for this implementation is under [lambda/py](lambda/py) folder.
-
-For the sample skill using the ``decorators`` approach, check
-[skill-sample-python-helloworld-decorators](https://github.com/alexa/skill-sample-python-helloworld-decorators).
 
 Additional Resources
 --------------------
