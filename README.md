@@ -11,4 +11,4 @@ Setup
 
 To build your own Babel Fish you will need to accomplish four phases. Each of them will add new functionality to your Babel Fish and will use different AI service from AWS portfolio.
 
-<a href="./instructions/phase0/README.md"><img src="/img/button-get-started.png" width="200"></a>
+<a href="./instructions/phase0"><img src="/img/button-get-started.png" width="200"></a>
