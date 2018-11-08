@@ -24,7 +24,7 @@ Implement the function to use translation result and synthesize it with Amazon P
 
 > Hint: You may want to look up [Amazon Polly Boto 3 Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/polly.html) or inspire yourself with [Amazon Polly Synthesize Speech Example](https://docs.aws.amazon.com/polly/latest/dg/SynthesizeSpeechSamplePython.html).
 
-> Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `polly_lambda_function.zip` file with a ready solution and will show how to apply it to unblock next steps.
+> Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `solution.zip` file with a ready solution and will show how to apply it to unblock next steps.
 
 ## Testing
 TODO

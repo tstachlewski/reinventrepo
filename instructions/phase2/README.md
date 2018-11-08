@@ -24,7 +24,7 @@ Implement the function to use transcription result and translate it with Amazon 
 
 > Hint: You may want to look up [Amazon Translate Boto 3 Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/translate.html) or inspire yourself with [Amazon Translate Getting Started](https://docs.aws.amazon.com/translate/latest/dg/examples-python.html).
 
-> Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `translate_lambda_function.zip` file with a ready solution and will show how to apply it to unblock next steps.
+> Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `solution.zip` file with a ready solution and will show how to apply it to unblock next steps.
 
 ## Testing
 To test this part of implementation, open web app, record yourself or upload audio file and verify in the S3 bucket if a `txt` file with translation result is created.

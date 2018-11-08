@@ -27,7 +27,7 @@ Implement the function to use audio file link and transcribe it with Amazon Tran
 
 > Hint: You may want to look up [Amazon Transcribe Boto 3 Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/transcribe.html) or inspire yourself with [Amazon Transcribe Getting Started](https://docs.aws.amazon.com/transcribe/latest/dg/getting-started-python.html).
 
-> Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `transcribe_lambda_function.zip` file with a ready solution and will show how to apply it to unblock next steps.
+> Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `solution.zip` file with a ready solution and will show how to apply it to unblock next steps.
 
 
 ## Testing
