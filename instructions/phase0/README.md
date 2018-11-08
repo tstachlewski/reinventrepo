@@ -6,9 +6,9 @@ This repository contains necessary resources for AWS re:Invent 2018 workshop AIM
 <img src="../../img/flow0.png" />
 
 
-Phase 0
+Phase 0: Environment setup
 -----
 
 To build your own Babel Fish you will need to accomplish four phases. Each of them will add new functionality to your Babel Fish and will use different AI service from AWS portfolio.
 
-<a href="./instructions/phase1/README.md"><img src="/img/button1.png" width="200"></a>
+<a href="../phase1/README.md"><img src="../../img/button2.png" width="200"></a>
