@@ -13,6 +13,6 @@ When the workshop is finished you may consider taking following housekeeping ste
 
 The S3 bucket was created as public and is accessible to anyone on the Internet. You may want to change this setting and restrict access (in current setup the app will stop working though).
 
-It's also very easy to remove all AWS resources created for this workshop. To do this you need to use CloudFormation service in AWS Console, select checkbox next to created `babel-fish-app` stack and choose `Delete Stack` option in `Actions` menu.
+It's also very easy to remove all AWS resources created for this workshop. The first step is to delete the content of your S3 bucket. To do this, open again S3 service and empty your bucket. To do this you need to use CloudFormation service in AWS Console, select checkbox next to created `babel-fish-app` stack and choose `Delete Stack` option in `Actions` menu.
 
-<a href="../phase3/README.md"><img src="../../img/button-previous.png" width="200"></a>
+<a href="../phase3"><img src="../../img/button-previous.png" width="200"></a>

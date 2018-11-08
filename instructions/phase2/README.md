@@ -32,5 +32,5 @@ To test this part of implementation, open web app, record yourself or upload aud
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**
 
 
-<a href="../phase1/README.md"><img src="../../img/button-previous.png" width="200"></a>
-<a href="../phase3/README.md"><img src="../../img/button-next.png" width="200"></a>
+<a href="../phase1"><img src="../../img/button-previous.png" width="200"></a>
+<a href="../phase3"><img src="../../img/button-next.png" width="200"></a>

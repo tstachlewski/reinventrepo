@@ -26,13 +26,9 @@ Implement the function to use translation result and synthesize it with Amazon P
 
 > Hint: Getting behind? No worries, we've got you covered! When the time is up speakers will provide the password to the `polly_lambda_function.zip` file with a ready solution and will show how to apply it to unblock next steps.
 
-## Demo
+## Testing
+TODO
 
-It's time to let your Babel-fish out :)
 
-## Extra task
-
-Put the static file with JavaScript application in S3 bucket to make it available online. See [Hosting a Static Website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) Developer Guide for reference.
-
-<a href="../phase2/README.md"><img src="../../img/button-previous.png" width="200"></a>
-<a href="../cleaning/README.md"><img src="../../img/button-next.png" width="200"></a>
+<a href="../phase2"><img src="../../img/button-previous.png" width="200"></a>
+<a href="../cleaning"><img src="../../img/button-next.png" width="200"></a>
