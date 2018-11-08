@@ -33,5 +33,5 @@ Please note that created Lambda functions use `Python 3.6` by default and while 
 
 **Once you're finished with this phase please wait for speakers to present the next one before moving forward.**
 
-<a href="../../README.md"><img src="../../img/button2.png" width="200"></a>
-<a href="../phase1/README.md"><img src="../../img/button3.png" width="200"></a>
+<a href="../../README.md"><img src="../../img/button-previous.png" width="200"></a>
+<a href="../phase1/README.md"><img src="../../img/button-next.png" width="200"></a>

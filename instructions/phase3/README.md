@@ -34,5 +34,5 @@ It's time to let your Babel-fish out :)
 
 Put the static file with JavaScript application in S3 bucket to make it available online. See [Hosting a Static Website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) Developer Guide for reference.
 
-<a href="../phase2/README.md"><img src="../../img/button2.png" width="200"></a>
-<a href="../cleaning/README.md"><img src="../../img/button3.png" width="200"></a>
+<a href="../phase2/README.md"><img src="../../img/button-previous.png" width="200"></a>
+<a href="../cleaning/README.md"><img src="../../img/button-next.png" width="200"></a>
