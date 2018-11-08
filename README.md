@@ -11,6 +11,7 @@ Setup
 
 To build your own Babel Fish you will need to accomplish four phases. Each of them will add new functionality to your Babel Fish and will use different AI service from AWS portfolio.
 
+<img src="/img/button1.png" width="200">
 [![Get Started](img/button1.png&s=200)](./instructions/1-voice-user-interface.md)
 
 Skills can be built either by implementing ``AbstractRequestHandler`` classes
