@@ -15,6 +15,8 @@ Sign into the AWS Console and choose `eu-west-1` (Irleand) region. Click the lin
 
 [Launch Stack](https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=babel-fish-app&templateURL=https://s3-eu-west-1.amazonaws.com/babel-fish-reinvent/cfn-babel-fish.yaml)
 
+<a href="https://console.aws.amazon.com/cloudformation/home?region=eu-west-1#/stacks/new?stackName=babel-fish-app&templateURL=https://s3-eu-west-1.amazonaws.com/babel-fish-reinvent/cfn-babel-fish.yaml"><img src="../../img/button-launch-stack.png" width="120"></a>
+
 Move through the wizard (`Next`, `Next`, `Next`), on `Review` page acknowledge that CloudFormation might create IAM resources and click `Create`. Wait a few moments until status changes from `CREATE_IN_PROGRESS` to `CREATE_COMPLETE`.
 
 On `Stacks` page click stack name to view `Stack Detail` page and expand `Resources` section. In `Logical ID` column find the following two items and copy their `Physical ID` values for later use:
