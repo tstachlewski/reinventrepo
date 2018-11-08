@@ -24,8 +24,8 @@ Phase 0: Environment setup
 4. Download `babel-fish.js` and `babel-fish.html` files.
 5. Update your local JavaScript app `babel-fish.js` and replace placeholders with correct configuration data:
 
-1. Provide your S3 bucket name in line 3.
-1. Provide your Identity Pool ID in line 4.
+    1. Provide your S3 bucket name in line 3.
+    1. Provide your Identity Pool ID in line 4.
 
 7. Upload both of the files (`babel-fish.js` and `babel-fish.html`) to S3 bucket which was created in previous steps.
 
